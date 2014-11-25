@@ -1,0 +1,2 @@
+if php 5.3 or later can't support PHP_mssql 
+use this
